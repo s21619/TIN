@@ -1,0 +1,15 @@
+.fail {
+    border: 2px solid red;
+}
+input {
+    height: 2em;
+    border: 2px solid black;
+    border-radius: 3px;
+}
+form {
+    text-align: center;
+}
+body {
+    display: flex;
+    justify-content: center;
+}
